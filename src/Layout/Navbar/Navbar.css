@@ -1,0 +1,15 @@
+.navbar {
+    background-color: #f5dcc6;
+}
+
+.navList {
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    text-indent: 50px;
+}
+
+/* .navbar-nav {
+    margin-left: 30px;
+} */
