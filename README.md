@@ -28,7 +28,8 @@ Start the server<br>
     
 ### [Deployed App](https://lizmackle.github.io/React_Portfolio/)
 
-![image](assets\portfolio-screenshot.png)
+![portfolio screenshots](https://user-images.githubusercontent.com/93589073/169942272-9d9101dd-3682-48f3-b237-154528a4d194.png)
+
 
 ## Contribution
 Please feel free to contribute in any way by forking the repo and creating a pull request.
