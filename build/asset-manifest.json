@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1911d268.css",
+    "main.js": "/static/js/main.fabee793.js",
+    "static/media/PortfolioIMG.png": "/static/media/PortfolioIMG.2d229310664a685ef9a6.png",
+    "static/media/artlarge.jpg": "/static/media/artlarge.72656343849be58ceee2.jpg",
+    "static/media/EMackleCV.pdf": "/static/media/EMackleCV.c5e9956e6e6132498add.pdf",
+    "static/media/Abouttitle.jpg": "/static/media/Abouttitle.989811ee824995172d73.jpg",
+    "static/media/nodejs.jpg": "/static/media/nodejs.9ffed19d2477ba1a22d7.jpg",
+    "index.html": "/index.html",
+    "main.1911d268.css.map": "/static/css/main.1911d268.css.map",
+    "main.fabee793.js.map": "/static/js/main.fabee793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1911d268.css",
+    "static/js/main.fabee793.js"
+  ]
+}
