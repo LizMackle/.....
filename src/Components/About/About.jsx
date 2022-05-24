@@ -17,9 +17,9 @@ function About() {
                             />
                         </div>
                         <p>
-                            A fresh Full Stack Web Developer graduate located in Perth, WA.
+                            A newly graduated Full Stack Web Developer located in Perth, WA.
                         </p>
-                        <p>I'm a competent and enthusiatic individual with a goal to make a positive impact on future clients using the
+                        <p>I am a competent and enthusiatic individual with a goal to make a positive impact on future clients using the
                             skills I have learnt throughout the UWA Bootcamp course to create compelling and attractive websites.</p>
                         <p>I have always had a passion for the creative side of Web Devlopement and how it all comes together and
                             I look forward to being able to utilise my knowledge and skills to bring others visions to life!</p>

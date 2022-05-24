@@ -1,5 +1,5 @@
 # 20 - React: My Portfolio🙋‍♀️
-<a href="">![Deployed App](https://img.shields.io/badge/-Deployed-success?color=green&style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/React_Portfolio?color=pink&style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/React_Portfolio?color=purple&style=for-the-badge)
+<a href="https://lizmackle.github.io/React_Portfolio/">![Deployed App](https://img.shields.io/badge/-Deployed-success?color=green&style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/React_Portfolio?color=pink&style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/React_Portfolio?color=purple&style=for-the-badge)
 
 ## Description
 My updated portfolio powered by React. 
@@ -26,7 +26,9 @@ To use this app, use the following command:
 Start the server<br>
 `npm start`
     
-### [Deployed App]()
+### [Deployed App](https://lizmackle.github.io/React_Portfolio/)
+
+![image](assets\portfolio-screenshot.png)
 
 ## Contribution
 Please feel free to contribute in any way by forking the repo and creating a pull request.
