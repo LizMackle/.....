@@ -1,5 +1,5 @@
 # 20 - React: My Portfolio🙋‍♀️
-<a href="https://lizmackle.github.io/LM_ReactPortfolio/">![Deployed App](https://img.shields.io/badge/-Deployed-success?color=green&style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/LM_ReactPortfolio?color=pink&style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/LM_ReactPortfolio?color=purple&style=for-the-badge)
+<a href="https://lizmackle.github.io/React_Portfolio/">![Deployed App](https://img.shields.io/badge/-Deployed-success?color=green&style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/React_Portfolio?color=pink&style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/React_Portfolio?color=purple&style=for-the-badge)
 
 ## Description
 My updated portfolio powered by React. 
