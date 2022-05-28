@@ -93,7 +93,7 @@ function Skills() {
                                     <img src={data.src} variant="top" className="card-src" alt="card-images" />
                                     <div className="card-title"><h5>{data.title}</h5></div>
                                     <div className="card-links">
-                                        <a href={data.deployedLink}>View page </a>|
+                                        <a href={data.deployedLink}>View deployed </a>|
                                         <a href={data.githubLink}> Github<VscGithub id="githubicon" size="1.3rem" color="#292b2c" /></a>
                                     </div>
                                 </div>

@@ -45,19 +45,19 @@ function Contact() {
                     <form ref={form} onSubmit={sendEmail}>
                         <div className="row pb-3">
                             <div className="col-xs-6 col-md-6 form-group">
-                                <input className="form-control rounded-0" id="name" name="from_name" placeholder="Name" type="text" required autofocus style={{
+                                <input className="form-control rounded-0" id="name" name="from_name" placeholder="Name" type="text" autofocus style={{
                                     height: "50px"
-                                }} />
+                                }} required />
                             </div>
                             <div className="col-xs-6 col-md-6 form-group">
-                                <input className="form-control rounded-0" id="email" name="from_email" placeholder="Email" type="email" required style={{
+                                <input className="form-control rounded-0" id="email" name="from_email" placeholder="Email" type="email" style={{
                                     height: "50px"
-                                }} />
+                                }} required />
                             </div>
                         </div>
                         <textarea className="form-control rounded-0" id="message" name="message" placeholder="Message" rows="7" style={{
                             padding: "10px"
-                        }} ></textarea>
+                        }} required ></textarea>
 
                         <div className="row">
                             <div className="col-xs-12 col-md-12 form-group">
