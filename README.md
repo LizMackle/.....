@@ -1,5 +1,5 @@
 # 20 - React: My Portfolio🙋‍♀️
-<a href="https://lizmackle.github.io/React_Portfolio/">![Deployed App](https://img.shields.io/badge/-Deployed-success?color=green&style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/React_Portfolio?color=pink&style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/React_Portfolio?color=purple&style=for-the-badge)
+<a href="https://lizmackle.github.io/LM_ReactPortfolio/">![Deployed App](https://img.shields.io/badge/-Deployed-success?color=green&style=for-the-badge)</a> ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo) ![Top language](https://img.shields.io/github/languages/top/lizmackle/LM_ReactPortfolio?color=pink&style=for-the-badge&logo) ![Repo Size](https://img.shields.io/github/repo-size/lizmackle/LM_ReactPortfolio?color=purple&style=for-the-badge)
 
 ## Description
 My updated portfolio powered by React. 
@@ -26,7 +26,7 @@ To use this app, use the following command:
 Start the server<br>
 `npm start`
     
-### [Deployed App](https://lizmackle.github.io/React_Portfolio/)
+### [Deployed App](https://lizmackle.github.io/LM_ReactPortfolio/)
 
 ![screenshot1](https://user-images.githubusercontent.com/93589073/169942728-bea2c727-3396-4d15-aad4-d0e2d1cbbbce.png)
 
