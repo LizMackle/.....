@@ -12,6 +12,12 @@ const projectData = [
     githubLink: "https://github.com/JackoWray/JAKL_Coding",
   },
   {
+    title: "WanderView",
+    src: "https://i.ibb.co/yh4tJL5/Wander-View.jpg",
+    deployedLink: "hhttps://wanderview.herokuapp.com/",
+    githubLink: "https://github.com/LizMackle/WanderView",
+  },
+  {
     title: "Tech Blog",
     src: "https://i.ibb.co/2hPJzPV/Tech-blog.jpg",
     deployedLink: "https://tech-blog-lm8.herokuapp.com/",
@@ -19,13 +25,13 @@ const projectData = [
   },
   {
     title: "Weather Dashboard",
-    src: "https://i.ibb.co/WcJddGy/Weather-dashboard.jpg",
+    src: "https://i.ibb.co/1dN8DKL/Weather-dashboard.jpg",
     deployedLink: "https://lizmackle.github.io/Weather_Dashboard/",
     githubLink: "https://github.com/LizMackle/Weather_Dashboard",
   },
   {
     title: "Note Taker",
-    src: "https://i.ibb.co/7b4Fc4r/Note-taker.jpg",
+    src: "https://i.ibb.co/SrVbKXN/Note-taker.jpg",
     deployedLink: "https://note-taker-lm.herokuapp.com/",
     githubLink: "https://github.com/LizMackle/Note_Taker",
   },
@@ -37,7 +43,7 @@ const projectData = [
   },
   {
     title: "Code Quiz",
-    src: "https://i.ibb.co/6b0dTzJ/Code-quiz.jpg",
+    src: "https://i.ibb.co/28DkxCk/Code-quiz.jpg",
     deployedLink: "https://lizmackle.github.io/Code_Quiz/",
     githubLink: "https://github.com/LizMackle/Code_Quiz",
   },
