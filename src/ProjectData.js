@@ -24,6 +24,12 @@ const projectData = [
     githubLink: "https://github.com/LizMackle/Tech_Blog",
   },
   {
+    title: "Text Editor",
+    src: "https://i.ibb.co/d6QT2NN/JATE.png",
+    deployedLink: "https://text-editor-lm.herokuapp.com/",
+    githubLink: "https://github.com/LizMackle/Text_Editor",
+  },
+  {
     title: "Weather Dashboard",
     src: "https://i.ibb.co/1dN8DKL/Weather-dashboard.jpg",
     deployedLink: "https://lizmackle.github.io/Weather_Dashboard/",
@@ -46,6 +52,12 @@ const projectData = [
     src: "https://i.ibb.co/28DkxCk/Code-quiz.jpg",
     deployedLink: "https://lizmackle.github.io/Code_Quiz/",
     githubLink: "https://github.com/LizMackle/Code_Quiz",
+  },
+  {
+    title: "Password Generator",
+    src: "https://i.ibb.co/VJhKhrJ/Password-Generator.jpg",
+    deployedLink: "https://lizmackle.github.io/Password_Generator/",
+    githubLink: "https://github.com/LizMackle/Password_Generator",
   },
 ];
 

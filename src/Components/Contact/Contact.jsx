@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import { useState } from 'react';
 import "./Contact.css";
-import LMCV from "../Contact/EMackleCV.pdf";
+import LMCV from "../Contact/EMackleCV2022.pdf";
 import contacttitle from "../../images/appimages/Contacttitle.png";
 import emailjs from '@emailjs/browser';
 import { FaGithubSquare } from 'react-icons/fa';
