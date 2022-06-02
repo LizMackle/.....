@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.1911d268.css",
-    "main.js": "/React_Portfolio/static/js/main.562c4e6d.js",
+    "main.css": "/React_Portfolio/static/css/main.d731897a.css",
+    "main.js": "/React_Portfolio/static/js/main.14dccac1.js",
     "static/media/PortfolioIMG.png": "/React_Portfolio/static/media/PortfolioIMG.2d229310664a685ef9a6.png",
     "static/media/artlarge.jpg": "/React_Portfolio/static/media/artlarge.72656343849be58ceee2.jpg",
-    "static/media/EMackleCV.pdf": "/React_Portfolio/static/media/EMackleCV.c5e9956e6e6132498add.pdf",
+    "static/media/EMackleCV2022.pdf": "/React_Portfolio/static/media/EMackleCV2022.5e183c37d22c62ecfb42.pdf",
     "static/media/Abouttitle.jpg": "/React_Portfolio/static/media/Abouttitle.989811ee824995172d73.jpg",
     "static/media/nodejs.jpg": "/React_Portfolio/static/media/nodejs.9ffed19d2477ba1a22d7.jpg",
     "index.html": "/React_Portfolio/index.html",
-    "main.1911d268.css.map": "/React_Portfolio/static/css/main.1911d268.css.map",
-    "main.562c4e6d.js.map": "/React_Portfolio/static/js/main.562c4e6d.js.map"
+    "main.d731897a.css.map": "/React_Portfolio/static/css/main.d731897a.css.map",
+    "main.14dccac1.js.map": "/React_Portfolio/static/js/main.14dccac1.js.map"
   },
   "entrypoints": [
-    "static/css/main.1911d268.css",
-    "static/js/main.562c4e6d.js"
+    "static/css/main.d731897a.css",
+    "static/js/main.14dccac1.js"
   ]
 }
