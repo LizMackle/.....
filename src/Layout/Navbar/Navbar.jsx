@@ -43,6 +43,7 @@ export default function Navbar() {
         setShowListItems(!showListItems);
     }
     return (
+
         <nav className="navbar navbar-expand-lg navbar-light ">
             {isMobile && (
                 <button onClick={toggleList} aria-label="Toggle navigation" className="navbar-toggler" type="button">
@@ -51,6 +52,7 @@ export default function Navbar() {
             )}
             {showListItems && (
                 <ul className="navbar-nav mr-auto mt-2 mt-md-0">
+                    <div className="nav-name">LIZ MACKLE</div>
                     {navLinks.map((item) => {
                         return (
                             <li className="nav-item" key={item.link}>

@@ -82,7 +82,7 @@ function Skills() {
                 ))}
             </div>
 
-            <div className="container  justify-content-center d-flex" id="project-card">
+            <div className="container justify-content-center d-flex" id="project-card">
 
                 <div className="row">
 

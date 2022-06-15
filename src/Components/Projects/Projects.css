@@ -1,15 +1,9 @@
 /*SKILLS CSS*/
 
-/* .skills-title{
-    padding-top: 40px;
-} */
 .skillsList {
     padding-top: 30px;
     }
     
-/* .skillsList2 {
-    margin-bottom: 30px;
-} */
 .skills-img {
     display: inline-block;
     padding: 5px;
@@ -49,7 +43,6 @@
 }
 
 .row {
-    padding-bottom: 40px;
-    padding-top: 30px;
-    
+    padding-bottom: 90px;
+    padding-top: 30px; 
 }

@@ -4,9 +4,9 @@ function Footer() {
     return (
 
         <footer className="fixed-bottom py-2 bg-dark" >
-            {/* <p className="m-0 text-center text-white" id="footer-text">
-                Made with 🤍
-            </p> */}
+            <p className="m-0 text-center text-white" id="footer-text">
+                Made with 🤍 by LM
+            </p>
         </footer>
     );
 }
