@@ -25,9 +25,7 @@ To use this app, use the following command:
 
 Start the server<br>
 `npm start`
-    
-### [Deployed App](https://lizmackle.github.io/LM_ReactPortfolio/)
-
+  
 ![screenshot1](https://user-images.githubusercontent.com/93589073/169942728-bea2c727-3396-4d15-aad4-d0e2d1cbbbce.png)
 
 ## Contribution
