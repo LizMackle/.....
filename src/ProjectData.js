@@ -14,6 +14,7 @@ const projectData = [
   {
     title: "WanderView",
     src: "https://i.ibb.co/yh4tJL5/Wander-View.jpg",
+    deployedLink: "https://github.com/LizMackle/WanderView",
     githubLink: "https://github.com/LizMackle/WanderView",
   },
   {
